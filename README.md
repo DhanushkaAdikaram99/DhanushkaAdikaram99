@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Dhanushka 👋
 
-<!--
-**DhanushkaAdikaram99/DhanushkaAdikaram99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate | Industrial Statistics and Mathematical Finanace 
+📊 Data Analysis | Python | Excel | Power BI  
+📍 Sri Lanka
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+As an ambitious graduate majoring in Industrial Statistics and Mathematical Finance at the University of Colombo Faculty of Science, mypassion lies at the intersection of technology and statistics. Eager to contribute my skills to prestigious organizations, I am driven by a commitment to excellence in IT and Statistics. I am dedicated to developing my professional identity, excited about leveraging my academic foundation to make meaningful contributions in the dynamic fields of technology and statistics.
+
+---
+
+## 🛠️ Skills
+- **Programming:** Python (Pandas, NumPy, Matplotlib)
+- **Data Tools:** Excel (Advanced formulas, VBA), Power BI
+- **Statistics:** Descriptive analysis, basic modeling
+- 
+
+---
+
+## 📂 Featured Projects
+🔹 **House Price Prediction (Machine Learning)**  
+📌 Python | Regression | Kaggle Dataset  
+👉 Predicts housing prices using ML models  
+🔗 [View Project](https://github.com/yourusername/project-link)
+
+🔹 **Physical Activity & TEE Analysis**  
+📌 MET Values | Nutrition Assessment  
+👉 Calculated TEE & MET-minutes for university students  
+🔗 [View Project](https://github.com/yourusername/project-link)
+
+🔹 **Power BI Warehouse Dashboard**  
+📌 Power BI | Visualization  
+👉 Interactive dashboard for warehouse performance  
+🔗 [View Project](https://github.com/yourusername/project-link)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: adikaramdhanushka@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/dhanushka-adikaram-45294821a/
