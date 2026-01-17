@@ -1,7 +1,7 @@
 # Hi, I'm Dhanushka 👋
 
 🎓 Graduate | Industrial Statistics and Mathematical Finanace 
-📊 Data Analysis | Python | Excel | Power BI  
+📊 Data Analysis | Python | Excel | Power BI | SQL 
 📍 Sri Lanka
 
 ---
@@ -15,8 +15,7 @@ As an ambitious graduate majoring in Industrial Statistics and Mathematical Fina
 - **Programming:** Python (Pandas, NumPy, Matplotlib)
 - **Data Tools:** Excel (Advanced formulas, VBA), Power BI
 - **Statistics:** Descriptive analysis, basic modeling
-- 
-
+  
 ---
 
 ## 📂 Featured Projects
@@ -25,12 +24,7 @@ As an ambitious graduate majoring in Industrial Statistics and Mathematical Fina
 👉 Predicts housing prices using ML models  
 🔗 [View Project](https://github.com/yourusername/project-link)
 
-🔹 **Physical Activity & TEE Analysis**  
-📌 MET Values | Nutrition Assessment  
-👉 Calculated TEE & MET-minutes for university students  
-🔗 [View Project](https://github.com/yourusername/project-link)
-
-🔹 **Power BI Warehouse Dashboard**  
+🔹 **Power BI Pizza Sales Dashboard**  
 📌 Power BI | Visualization  
 👉 Interactive dashboard for warehouse performance  
 🔗 [View Project](https://github.com/yourusername/project-link)
@@ -40,3 +34,7 @@ As an ambitious graduate majoring in Industrial Statistics and Mathematical Fina
 ## 📫 Connect With Me
 - 📧 Email: adikaramdhanushka@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/dhanushka-adikaram-45294821a/
+-    Github: https://github.com/DhanushkaAdikaram99
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=Projects&fontColor=ffffff" />
+
