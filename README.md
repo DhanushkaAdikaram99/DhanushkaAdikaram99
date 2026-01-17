@@ -35,6 +35,10 @@ As an ambitious graduate majoring in Industrial Statistics and Mathematical Fina
 - 📧 Email: adikaramdhanushka@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/dhanushka-adikaram-45294821a/
 -    Github: https://github.com/DhanushkaAdikaram99
+-    ## 📫 Connect With Me
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=Projects&fontColor=ffffff" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 
