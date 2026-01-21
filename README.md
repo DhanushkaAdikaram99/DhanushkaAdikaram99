@@ -27,7 +27,7 @@ As an ambitious graduate majoring in Industrial Statistics and Mathematical Fina
 🔹 **Power BI Pizza Sales Dashboard**  
 📌 Power BI | Visualization  
 👉 Interactive dashboard for warehouse performance  
-🔗 [View Project]([https://github.com/yourusername/project-link](https://github.com/DhanushkaAdikaram99/Sales_Powerbi_Dashboard))
+🔗 [View Project](https://github.com/DhanushkaAdikaram99/Sales_Powerbi_Dashboard)
 
 ---
 
