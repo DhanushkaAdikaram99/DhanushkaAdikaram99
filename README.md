@@ -22,12 +22,12 @@ As an ambitious graduate majoring in Industrial Statistics and Mathematical Fina
 🔹 **House Price Prediction (Machine Learning)**  
 📌 Python | Regression | Kaggle Dataset  
 👉 Predicts housing prices using ML models  
-🔗 [View Project](https://github.com/yourusername/project-link)
+🔗 [View Project]([https://github.com/yourusername/project-link](https://github.com/DhanushkaAdikaram99/Sales_Powerbi_Dashboard))
 
 🔹 **Power BI Pizza Sales Dashboard**  
 📌 Power BI | Visualization  
 👉 Interactive dashboard for warehouse performance  
-🔗 [View Project](https://github.com/yourusername/project-link)
+🔗 [View Project]([https://github.com/yourusername/project-link](https://github.com/DhanushkaAdikaram99/Sales_Powerbi_Dashboard))
 
 ---
 
